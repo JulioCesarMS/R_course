@@ -11,5 +11,5 @@ by Julio César Martínez Sánchez
 </li>
 
 <li class="masthead__menu-item">
-          <a href= "https://nbviewer.org/github/JulioCesarMS/DataScience_with_Python/blob/master/6.-%20DeepLearning/2.-%20MultilayerPerceptron_Classification.ipynb">Deep Learning</a>
+          <a href= "https://nbviewer.org/github/JulioCesarMS/R_course/blob/master/8.-%20Visualizaci%C3%B3n%20de%20datos%20en%20R.ipynb">Data Visualization</a>
 </li>
